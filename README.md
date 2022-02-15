@@ -1,4 +1,5 @@
-### Привет ! <img src="https://c.tenor.com/GmsndNiwYyYAAAAC/the-simpsons-hi.gif" width="70px"/>
+<img src="https://thumbs.gfycat.com/GlassGorgeousCockatoo-max-1mb.gif" width="100px"/>
+### Привет !
 
 ### 🙂 Меня зовут Иван, я JavaScript FullStack Developer.
 
