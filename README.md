@@ -6,8 +6,6 @@
 
 ####  👨‍💻 Мой стек : HTML, CSS , JavaScript, React, Redux, Node JS, Express, PostreSQL, Sequelize, Git, WebSockets.
 
-####  👯 В настоящее время ищу позицию в интересном командном проекте.
-
 ####  💬 Всегда рад пообщаться:
 * mobile: +7 926 723 53 53
 * [Telegram: @prokhorov_i](https://t.me/prokhorov_i)
